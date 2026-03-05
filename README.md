@@ -119,6 +119,9 @@ Example JSON:
   "class_applied": "JSS 1",
   "admission_year": 2026
 }
+
+
+
 🎯 Project Purpose
 
 This project demonstrates how workflow automation can solve real operational problems in schools by:
@@ -133,6 +136,8 @@ Integrating multiple systems through APIs
 
 It also serves as a portfolio project for automation engineering, workflow automation, and backend integration roles.
 
+
+
 🔮 Future Improvements
 
 Email notifications to parents
@@ -144,6 +149,11 @@ Admin dashboard
 Admission status tracking
 
 File uploads for documents
+
+
+👨‍💻 Author
+
+Automation workflow project built as a hands-on learning project in workflow automation and backend integration.
 
 
 📝 License
@@ -175,6 +185,4 @@ SOFTWARE.
 
 Payment integration
 
-👨‍💻 Author
 
-Automation workflow project built as a hands-on learning project in workflow automation and backend integration.
